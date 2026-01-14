@@ -1,25 +1,83 @@
 # Time Turns Behavior Into Infrastructure  
-## A Longitudinal AI Governance Framework
-
+## A Longitudinal AI Governance Framework  
 **Hollow House Institute**  
-Structured Human Intelligence  
+Structured Human Intelligence
 
 ---
 
-This repository hosts the **public reference white paper** for the  
-**Longitudinal Relational Governance Framework™**, a proprietary system for detecting how risk, harm, and instability accumulate over time in AI systems, platforms, and organizations.
+## Overview
 
-This is **not the full audit methodology** and does **not disclose proprietary implementation details**.
+This repository hosts the **public reference white paper** for the 
+**Longitudinal Relational Governance Framework™ (LRGF)**—a structured approach
+to understanding how risk, harm, and instability accumulate over repeated 
+AI system use over time.
+
+This README provides:
+- a high-level overview of the paper’s purpose
+- access instructions
+- governance context
+- licensing and contact info
 
 ---
 
-## What This Paper Covers
+## Abstract (Summary)
 
-- Why snapshot AI audits fail  
-- How behavioral drift accumulates into infrastructure  
-- Why retention can mask harm  
-- Governance risks that emerge between incidents  
-- The need for longitudinal, behavior-based audits  
+This white paper argues that:
+- Traditional point-in-time AI audits fail to capture emergent governance risk
+- Behavioral drift, retention normalization, and escalation decay become
+  *longitudinal infrastructure* that shapes system-level outcomes
+- Governance risks can accumulate between incidents and go undetected
+- Longitudinal, behavior-based analysis is needed for robust oversight
+
+---
+
+## Key Elements Covered
+
+The white paper addresses:
+- Limitations of snapshot governance reviews  
+- Mechanisms of behavioral and systemic drift  
+- How retention dynamics can mask harm  
+- Structural risks that emerge over repeated use  
+- Requirements for longitudinal audit frameworks
+
+---
+
+## Access & Canonical Publication (Temporary)
+
+While the Hollow House Institute website is offline, the canonical version
+of this paper is available in this repository:
+
+**Download (PDF):**  
+[Provide PDF filename here once uploaded]  
+
+If no PDF is uploaded yet, please contact governance@hollowhouse.org to request
+access.
+
+---
+
+## Licensing & Use
+
+This white paper and all derivative artifacts are governed under the  
+**Hollow House Institute Master License Suite (HHI-MLS)**.
+
+No rights are granted by default.
+
+Authoritative licensing instruments are maintained at:  
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+Please refer to the Master License Suite for binding terms and reuse conditions.
+
+---
+
+## Contact
+
+For access requests, feedback, or governance inquiries:
+
+**Email:** governance@hollowhouse.org
+
+---
+
+© Hollow House Institute. All rights reserved.- The need for longitudinal, behavior-based audits  
 
 ---
 
